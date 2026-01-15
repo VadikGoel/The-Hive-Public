@@ -79,7 +79,7 @@ Edit `config.json` to customize:
     "startingBalance": 1000         // Starting balance for new users
 - `/leaderboard` - View money leaderboard
 - `/stats` - View your stats
-
+```
 **Leveling Commands:**
 - `/rank` - View your rank card
 - `/levels` - View leveling leaderboard
