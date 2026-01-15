@@ -2,7 +2,7 @@
 
 A feature-rich Discord bot with economy, leveling, stock trading, and welcome system!
 
-**Author:** Vadik Goel (GAMING Name: VYPER GAMER)
+**Author:** Vadik Goel (Gaming Name: VYPER GAMER)
 
 ## ✨ Features
 
