@@ -1,0 +1,22 @@
+{
+  "name": "The Hive",
+  "version": "1.0.0",
+  "description": "A Discord bot with welcome messages, economy, and leveling system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "economy",
+    "levels",
+    "welcome"
+  ],
+  "author": "VadikGoel",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "sql.js": "^1.13.0"
+  }
+}

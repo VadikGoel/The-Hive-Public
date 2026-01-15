@@ -1,0 +1,45 @@
+# Custom Restrictive License for THE HIVE Discord Bot
+
+**Copyright (c) 2026 Vadik Goel (GAMING Name: VYPER GAMER). All rights reserved.**
+
+## License Grant
+This software is provided AS-IS for **viewing and educational purposes only** on GitHub. 
+
+## Restrictions
+You are **strictly prohibited** from:
+
+1. **COPYING** - Downloading, cloning, or copying the source code for your own use
+2. **MODIFICATION** - Altering, modifying, or adapting the code in any way
+3. **DISTRIBUTION** - Sharing, distributing, or redistributing the code or modified versions
+4. **COMMERCIAL USE** - Using this code for any commercial purpose or profit
+5. **HOSTING** - Hosting, deploying, or running this code on your own servers
+6. **FORKING** - Creating derivative works or forks of this repository
+7. **REVERSE ENGINEERING** - Attempting to reverse engineer, decompile, or extract functionality
+8. **SELLING** - Selling this code or access to this code to anyone
+9. **LICENSING** - Licensing this code to third parties or relicensing under different terms
+10. **TRADEMARK VIOLATION** - Using any trademarks, logos, or branding associated with this project
+
+## Permitted Uses
+You may:
+- View the source code for educational and learning purposes
+- Reference specific coding techniques for learning
+- Read and understand the implementation
+- Suggest improvements via GitHub Issues/Pull Requests (which remain property of copyright holder)
+
+## Enforcement
+Any violation of this license is a **copyright infringement** and may result in:
+- Legal action and prosecution
+- DMCA takedown notices
+- Financial penalties and damages
+- Criminal charges under applicable law
+
+## Disclaimer
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
+
+## Third-Party Licenses
+This project uses third-party libraries. For their licenses, see package.json and individual library LICENSE files.
+
+---
+**Last Updated: January 15, 2026**
+
+For questions or licensing inquiries, contact the copyright holder directly.
